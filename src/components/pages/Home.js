@@ -49,7 +49,7 @@ const Home = () => {
                     View
                   </Link>
                   <Link
-                    className="btn btn-outline-primary mr-2"
+                    className="btn btn-success mr-2"
                     to={`/users/edit/${user.id}`}
                   >
                     Edit
